@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Lecture Notes Folder
+Lecture_Notes/
+.DS_Store
